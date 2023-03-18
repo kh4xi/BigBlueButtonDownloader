@@ -1,6 +1,6 @@
 # BigBlueButtonDownloader
 
-##Installing dependencies
+## Installing dependencies
 
 `pip install -r requirements.txt`
 
