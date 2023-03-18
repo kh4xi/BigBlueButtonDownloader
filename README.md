@@ -15,3 +15,4 @@ BigBlueButton stores the voice and the screen record as separate, so this script
 ### Run
 `python bluebutton.py`
 
+tested on BigBlueButton 3.2
