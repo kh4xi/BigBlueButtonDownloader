@@ -1,4 +1,4 @@
-# BigBlueButtonDownload
+# BigBlueButtonDownloader
 
 ## Installing dependencies
 
